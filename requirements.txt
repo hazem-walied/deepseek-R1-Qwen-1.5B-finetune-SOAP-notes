@@ -1,0 +1,25 @@
+# Core ML Libraries
+torch>=2.0.1
+transformers==4.48.3
+datasets==3.2.0
+peft==0.4.0
+bitsandbytes==0.41.1
+
+# Training Utilities
+accelerate==0.21.0
+wandb==0.16.6
+llama-factory @ git+https://github.com/hiyouga/LLaMA-Factory.git
+
+# Data Processing
+json-repair==0.29.1
+pydantic==1.10.7
+faker==35.2.0
+
+# Deployment
+huggingface_hub==0.20.2
+optimum==1.24.0
+
+# Utilities
+tqdm==4.65.0
+requests==2.31.0
+numpy>=1.21.0

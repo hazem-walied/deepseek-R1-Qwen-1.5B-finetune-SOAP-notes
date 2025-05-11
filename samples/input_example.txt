@@ -1,0 +1,17 @@
+Doctor: Good morning. What brings you in today?
+Patient: Hi, Doctor. I’ve been having a persistent cough for about two weeks now. It gets worse at night, and sometimes I feel short of breath.
+Doctor: I see. Any fever, chills, or chest pain?
+Patient: No fever or chills, but I do get some mild chest discomfort when I cough a lot.
+Doctor: Do you have a history of asthma or any allergies?
+Patient: I have mild asthma, but it’s usually well-controlled. I use an inhaler only occasionally.
+Doctor: Any recent exposure to someone who was sick?
+Patient: Yes, my daughter had a cold last week.
+Doctor: Have you noticed any wheezing or phlegm?
+Patient: Yes, there’s some wheezing, especially at night, and I’ve been coughing up clear phlegm.
+Doctor: How’s your appetite and energy level?
+Patient: Appetite is okay, but I’ve been feeling a bit tired lately.
+Doctor: Alright. I’ll listen to your lungs now... (examines patient) You have some mild wheezing in both lungs, more on the right side.
+Patient: Is it serious?
+Doctor: It sounds like an asthma flare-up possibly triggered by a viral infection. Your oxygen levels are normal, and there’s no sign of pneumonia.
+Patient: Okay, what should I do?
+Doctor: I’ll prescribe a short course of oral steroids and advise using your inhaler regularly for the next few days. Drink plenty of fluids and rest. If your breathing worsens, go to the ER immediately.
